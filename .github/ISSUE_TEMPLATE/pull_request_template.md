@@ -1,0 +1,1 @@
+Go to read [CONTRIBUTING](CONTRIBUTING.md)
