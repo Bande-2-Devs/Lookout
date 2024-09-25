@@ -1,1 +1,1 @@
-Go to read [CONTRIBUTING](../CONTRIBUTING.md)
+Go to read [CONTRIBUTING](../../CONTRIBUTING.md)
