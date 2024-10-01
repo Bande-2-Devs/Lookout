@@ -57,3 +57,18 @@ npm ls ${name} --depth=0 --json
 ```
 
 Il existe également une version de `Deps` qui permet de créer un workflow automatisé sur GitHub. Grâce à un token, il est possible de mettre à jour des dépendances via ce workflow.
+
+## Déinstallation
+
+```bash
+# Supprimer le binaire
+rm /home/user/bin/deps
+# Nettoyer le cache
+rm -rf /home/user/.cache/deps
+# Vérification des variables d'environnement
+nano ~/.bashrc
+# Si présent supprimer :
+export PATH="$HOME/bin:$PATH"
+# CTRL S et CTRL X
+source ~/.bashrc
+```
