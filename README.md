@@ -13,8 +13,10 @@
 1. [👁️ Project Vision](#project-vision)
 2. [📅 Current Status](#current-status)
 3. [🔮 Planned Features](#planned-features)
-4. [🤝 Contributing](#contributing)
-5. [⚖️ License](#license)
+4. [👥 Designers](#designers)
+5. [🤝 Contributing](#contributing)
+6. [⚖️ License](#license)
+
 
 ---
 
@@ -60,11 +62,13 @@ While the project is still in development, here’s a list of the main features 
 We are a team of passionate developers working together to create **Lookout**. Find us on GitHub:
 
 - [RonanPors](https://github.com/RonanPors)
-- [yin-lo](https://github.com/yin-lo)
-- [Sebdev43](https://github.com/Sebdev43)
+- [ElodieLeport](https://github.com/yin-lo)
+- [SebastienRobert](https://github.com/Sebdev43)
+- [FlorentDesallangre](https://github.com/FlorentDesallangre)
 - [CannizzaroKevin](https://github.com/CannizzaroKevin)
-- [VirginielemaireOclock](https://github.com/VirginielemaireOclock)
+- [ClémentMartin](https://github.com/nyobec)
 - [Heike13](https://github.com/Heike13)
+- [JulieGondard](https://github.com/Julie-Onigiri)
 
 We're always open to new contributors. Join us!
 
@@ -113,8 +117,9 @@ Since the project is still under development, the implementation details and ins
 1. [👁️ Vision du Projet](#vision-du-projet)
 2. [📅 Statut Actuel](#statut-actuel)
 3. [🔮 Fonctionnalités Prévues](#fonctionnalités-prévues)
-4. [🤝 Contribuer](#contribuer)
-5. [⚖️ Licence](#licence)
+4. [👥 Concepteurs](#concepteurs)
+5. [🤝 Contribuer](#contribuer)
+6. [⚖️ Licence](#licence)
 
 ---
 
@@ -160,11 +165,13 @@ Bien que le projet soit encore en développement, voici une liste des principale
 Nous sommes une équipe de développeurs passionnés travaillant ensemble pour créer **Lookout**. Retrouvez-nous sur GitHub :
 
 - [RonanPors](https://github.com/RonanPors)
-- [yin-lo](https://github.com/yin-lo)
-- [Sebdev43](https://github.com/Sebdev43)
+- [ElodieLeport](https://github.com/yin-lo)
+- [SebastienRobert](https://github.com/Sebdev43)
+- [FlorentDesallangre](https://github.com/FlorentDesallangre)
 - [CannizzaroKevin](https://github.com/CannizzaroKevin)
-- [VirginielemaireOclock](https://github.com/VirginielemaireOclock)
+- [ClémentMartin](https://github.com/nyobec)
 - [Heike13](https://github.com/Heike13)
+- [JulieGondard](https://github.com/Julie-Onigiri)
 
 Nous sommes toujours ouverts à accueillir de nouveaux contributeurs. Rejoignez-nous !
 
