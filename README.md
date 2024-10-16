@@ -67,7 +67,7 @@ We are a team of passionate developers working together to create **Lookout**. F
 - [FlorentDesallangre](https://github.com/FlorentDesallangre)
 - [CannizzaroKevin](https://github.com/CannizzaroKevin)
 - [ClémentMartin](https://github.com/nyobec)
-- [Heike13](https://github.com/Heike13)
+- [MatthiasHibon](https://github.com/Heike13)
 - [JulieGondard](https://github.com/Julie-Onigiri)
 
 We're always open to new contributors. Join us!
@@ -170,7 +170,7 @@ Nous sommes une équipe de développeurs passionnés travaillant ensemble pour c
 - [FlorentDesallangre](https://github.com/FlorentDesallangre)
 - [CannizzaroKevin](https://github.com/CannizzaroKevin)
 - [ClémentMartin](https://github.com/nyobec)
-- [Heike13](https://github.com/Heike13)
+- [MatthiasHibon](https://github.com/Heike13)
 - [JulieGondard](https://github.com/Julie-Onigiri)
 
 Nous sommes toujours ouverts à accueillir de nouveaux contributeurs. Rejoignez-nous !
