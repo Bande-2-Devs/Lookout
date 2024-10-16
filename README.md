@@ -55,6 +55,20 @@ While the project is still in development, here’s a list of the main features 
 - **Plugin System**: 🔌 Extensibility to support different programming languages and package managers.
 
 ---
+## 👥 Designers
+
+We are a team of passionate developers working together to create **Lookout**. Find us on GitHub:
+
+- [RonanPors](https://github.com/RonanPors)
+- [yin-lo](https://github.com/yin-lo)
+- [Sebdev43](https://github.com/Sebdev43)
+- [CannizzaroKevin](https://github.com/CannizzaroKevin)
+- [VirginielemaireOclock](https://github.com/VirginielemaireOclock)
+- [Heike13](https://github.com/Heike13)
+
+We're always open to new contributors. Join us!
+
+---
 
 ## 🤝 Contributing
 
@@ -141,7 +155,20 @@ Bien que le projet soit encore en développement, voici une liste des principale
 - **Système de Plugins** : 🔌 Extensibilité pour prendre en charge différents langages de programmation et gestionnaires de packages.
 
 ---
+## 👥 Concepteurs
 
+Nous sommes une équipe de développeurs passionnés travaillant ensemble pour créer **Lookout**. Retrouvez-nous sur GitHub :
+
+- [RonanPors](https://github.com/RonanPors)
+- [yin-lo](https://github.com/yin-lo)
+- [Sebdev43](https://github.com/Sebdev43)
+- [CannizzaroKevin](https://github.com/CannizzaroKevin)
+- [VirginielemaireOclock](https://github.com/VirginielemaireOclock)
+- [Heike13](https://github.com/Heike13)
+
+Nous sommes toujours ouverts à accueillir de nouveaux contributeurs. Rejoignez-nous !
+
+---
 ## 🤝 Contribuer
 
 🎉 Les contributions sont les bienvenues ! Voici comment vous pouvez participer :
